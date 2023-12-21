@@ -39,4 +39,4 @@ We appreciate your contributions!
 
 **Note:** Please be cautious about sharing sensitive information such as PIN numbers in public repositories. It's advisable to use placeholder values for demonstration purposes.
 
-Feel free to customize this README further based on your project's specific details and needs
+Feel free to customize this README further based on your project's specific details and needs.

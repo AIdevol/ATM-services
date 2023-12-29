@@ -25,7 +25,7 @@ We welcome contributions! If you have suggestions, improvements, or bug fixes, p
 
 **Pull Requests:** [https://github.com/AIdevol/ATM-services/pulls](https://github.com/AIdevol/ATM-services/pulls)
 
-### How to Contribute
+### How to Contribute 
 
 1. Fork the repository.
 2. Create a new branch: `git checkout -b feature/your-feature-name`
